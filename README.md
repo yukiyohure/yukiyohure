@@ -2,8 +2,8 @@
 ### こんにちは！  
 フロントエンドにスキルチェンジしたい人です。
 
-:egg:[Twitter](https://twitter.com/yukiyohure0923)  
-🌱[Qiita](https://qiita.com/yukiyohure0923)
+:egg:  [Twitter](https://twitter.com/yukiyohure0923)  
+🌱  [Qiita](https://qiita.com/yukiyohure0923)
 
 |name|repo|link|Tech Stack|
 |:--|:--|:--|:--|
