@@ -1,6 +1,6 @@
 # yukiyohure
 ### こんにちは！  
-フロントエンドにスキルチェンジしたい人です。
+経験浅いですが、バックエンドからフロントエンドにスキルチェンジしたい人です。
 
 :egg:  [Twitter](https://twitter.com/yukiyohure0923)  
 🌱  [Qiita](https://qiita.com/yukiyohure0923)
