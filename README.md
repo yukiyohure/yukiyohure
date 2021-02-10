@@ -3,8 +3,8 @@
 経験浅いですが、バックエンドからフロントエンドにスキルチェンジしたい人です。
 
 :egg:  [Twitter](https://twitter.com/yukiyohure0923)  
-🌱  [Qiita](https://qiita.com/yukiyohure0923)
-🥶 [Zenn](https://zenn.dev/yukiyohure)
+🌱  [Qiita](https://qiita.com/yukiyohure0923)  
+🥶 [Zenn](https://zenn.dev/yukiyohure)  
 
 |name|repo|link|Tech Stack|
 |:--|:--|:--|:--|
