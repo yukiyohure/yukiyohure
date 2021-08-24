@@ -1,7 +1,5 @@
 # yukiyohure
 ### こんにちは！  
-経験浅いですが、バックエンドからフロントエンドにスキルチェンジしたい人です。
-
 経歴書、スキルなどは[こちらのリポジトリ](https://github.com/yukiyohure/resume)にあります！
 
 :egg:  [Twitter](https://twitter.com/yukiyohure0923)  
