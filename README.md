@@ -4,7 +4,7 @@
 
 :egg:  [Twitter](https://twitter.com/yukiyohure0923)  
 💻 [dev.to](https://dev.to/yukiyohure)  
-👁️ [Medium](https://medium.com/@snowyuki)
+👁️ [Medium](https://medium.com/@snowyuki)  
 🌱  [Qiita](https://qiita.com/yukiyohure0923)  
 🦋 [Zenn](https://zenn.dev/yukiyohure)  
 
