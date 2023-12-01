@@ -1,6 +1,7 @@
 # yukiyohure
 ### Hi, Im Yuki!👋 
-<!-- 経歴書、スキルなどは[こちらのリポジトリ](https://github.com/yukiyohure/resume)にあります！ -->
+
+経歴書、スキルなどは[こちらのリポジトリ](https://github.com/yukiyohure/resume)にあります！
 
 :egg:  [Twitter](https://twitter.com/yukiyohure0923)  
 💻 [dev.to](https://dev.to/yukiyohure)  
@@ -17,6 +18,7 @@
 |Airbnb_copy|[repo](https://github.com/yukiyohure/Airbnb_copy)|[link](https://yukiyohure.github.io/Airbnb_copy/)|マークアップの力を鍛えるべく、Airbnbのサイトを模写したもの。模写と言ってもコードは覗かずに全て自分で考えてコーディングを行った。|HTML/CSS, JavaScript|
 -->
 
+<!-- 
 |name|repo|link|description|tech|
 |:--|:--|:--|:--|:--|
 |redux-saga-github-viewer|[repo](https://github.com/yukiyohure/redux-saga-github-viewer)|none|Implemented `redux-github-viewer` side-effects handling (API communication, etc.) with `redux-saga` until halfway through.|React, React-Redux, React-Router, Redux-Saga, Styled-components, Atomic Design, etc...|
@@ -24,3 +26,4 @@
 |react-tic-tac-toe|[repo](https://github.com/yukiyohure/react-tic-tac-toe)|[link](https://yukiyohure.github.io/react-tic-tac-toe/)|A tic-tac-toe game created for `React` learning. Created a tic-tac-toe game that moves exactly the same as the tic-tac-toe game I created earlier using only `JavaScript`.|React, React-components, Atomic Design|
 |巡り野菜|[repo](https://github.com/yukiyohure/meguriyasai)|none|First `PHP` application created on the theme of "solving food loss", using `Mysql` for DB, learning CRUD processing, basic security measures, basics around backend, etc.|PHP7.4, Mysql5.8, Apache|
 |Airbnb_copy|[repo](https://github.com/yukiyohure/Airbnb_copy)|[link](https://yukiyohure.github.io/Airbnb_copy/)|This is a copy of the Airbnb website to exercise my markup skills. Even though it was a copycat, I did not peek at the code, but thought up and coded everything myself.|HTML/CSS, JavaScript|
+-->
