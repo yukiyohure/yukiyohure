@@ -3,11 +3,13 @@
 
 経歴書、スキルなどは[こちらのリポジトリ](https://github.com/yukiyohure/resume)にあります！
 
-:egg:  [Twitter](https://twitter.com/yukiyohure0923)  
-💻 [dev.to](https://dev.to/yukiyohure)  
-👁️ [Medium](https://medium.com/@snowyuki)  
-🌱  [Qiita](https://qiita.com/yukiyohure0923)  
-🦋 [Zenn](https://zenn.dev/yukiyohure)  
+- 𝕏 [X (Twitter)](https://twitter.com/yukiyohure0923)  
+- 💻 [dev.to](https://dev.to/yukiyohure)  
+- 👁️ [Medium](https://medium.com/@snowyuki)  
+- 🌱  [Qiita](https://qiita.com/yukiyohure0923)  
+- 🦋 [Zenn](https://zenn.dev/yukiyohure)
+- 📺 [Speaker Deck](https://speakerdeck.com/yukiyohure)
+
 
 <!-- |name|repo|link|description|tech|
 |:--|:--|:--|:--|:--|
